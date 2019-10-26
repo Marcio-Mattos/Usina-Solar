@@ -27,7 +27,7 @@ while True:
 
     projeto['endereco'] = input('Endereço: ')
 
-    projeto['resptec'] = input('Responsál técnico: ')
+    projeto['resptec'] = input('Responsável técnico: ')
 
     projeto['medpotmensal'] = float(input('Informe a média do consumo mensal em KWh: '))
 
